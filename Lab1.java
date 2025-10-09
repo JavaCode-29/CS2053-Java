@@ -29,7 +29,7 @@ class Book {
     }
 }
 
-public class Lab1Main {
+public class Lab1 {
     public static void main(String[] args) {
         Book book1 = new Book();
         book1.displayDetails();
